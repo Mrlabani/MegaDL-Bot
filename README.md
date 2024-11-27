@@ -12,7 +12,7 @@
 [![Bot Updates](https://img.shields.io/badge/MegaDL-Bot%20Updates-blue)](https://t.me/s3yori)
 [![Bot Support](https://img.shields.io/badge/MegaDL-Bot%20Support%20Group-blue)](https://t.me/s3yori)
 
-A Simple Telegram Bot By @AsmSafone to Download Files From Mega.nz and Upload It to Telegram
+A Simple Telegram Bot By @s3yori to Download Files From Mega.nz and Upload It to Telegram
 
 # Features
 - No Login Required
