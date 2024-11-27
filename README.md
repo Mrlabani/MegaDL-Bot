@@ -24,7 +24,7 @@ A Simple Telegram Bot By @s3yori to Download Files From Mega.nz and Upload It to
 - And More Features Coming Soon ...
 
 # Demo 
-<a href="https://t.me/Mega_DLRobot"><img src="https://img.shields.io/badge/MegaDL_Bot-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/seyo_mega_dl_bot"><img src="https://img.shields.io/badge/MegaDL_Bot-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 # Deploy
 Deploy Your Own Bot ♥️ **Star 🌟 Fork 🍴 & Deploy**
