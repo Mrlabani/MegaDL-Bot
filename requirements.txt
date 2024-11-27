@@ -1,0 +1,7 @@
+moviepy
+filetype
+pyrogram==1.4.16
+tgcrypto
+ffmpeg-python
+hurry.filesize
+git+https://github.com/seyori-eth-h4xer/mega.py.git
