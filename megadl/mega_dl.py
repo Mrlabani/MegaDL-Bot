@@ -131,7 +131,7 @@ async def megadl(bot, message):
                         [
                             InlineKeyboardButton(
                                 "🙌 SHARE 🙌",
-                                url="https://t.me/s3yori",
+                                url="https://t.me/noob_je",
                             )
                         ]
                     ]
@@ -166,7 +166,7 @@ async def megadl(bot, message):
                     [
                         InlineKeyboardButton(
                             "🙌 SHARE 🙌",
-                            url="https://t.me/s3yori",
+                            url="https://t.me/noob_je",
                         )
                     ]
                 ]
