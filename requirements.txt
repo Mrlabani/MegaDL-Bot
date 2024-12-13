@@ -1,6 +1,6 @@
 moviepy
 filetype
-pyrogram==2.0.106
+pyrogram==1.4.16
 tgcrypto
 ffmpeg-python
 hurry.filesize
