@@ -4,4 +4,4 @@ pyrogram==2.0.106
 tgcrypto
 ffmpeg-python
 hurry.filesize
-git+https://github.com/seyori-eth-h4xer/MegaDL-Bot.git
+git+https://github.com/Mrlabani/mega.py.git
